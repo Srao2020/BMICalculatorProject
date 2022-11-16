@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="74764463-134b-4598-8a0f-a4619b331b10" name="Changes" comment="BMI Calc">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BMICalcProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BMICalcProject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BMICalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BMICalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,19 +29,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/25rao/Documents/AP Comp Sci/Github repo/BMICalcProject"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/25rao/Documents/AP Comp Sci/Github repo/BMICalcProject&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.BMICalculator">
     <configuration name="BMICalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BMICalculator" />
       <module name="BMICalcProject" />
@@ -50,9 +50,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BMICalcTester" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BMICalcProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BMICalcTester" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.BMICalculator" />
+        <item itemvalue="JUnit.BMICalcTester" />
       </list>
     </recent_temporary>
   </component>
@@ -65,7 +75,10 @@
       <option name="presentableId" value="Default" />
       <updated>1668440548722</updated>
       <workItem from="1668440550639" duration="532000" />
-      <workItem from="1668441093500" duration="4838000" />
+      <workItem from="1668441093500" duration="6385000" />
+      <workItem from="1668456382819" duration="77000" />
+      <workItem from="1668456498856" duration="2221000" />
+      <workItem from="1668604659720" duration="2008000" />
     </task>
     <task id="LOCAL-00001" summary="BMI Calc">
       <created>1668440970671</created>
@@ -74,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668440970671</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="BMI Calc">
+      <created>1668454562662</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668454562662</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +116,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="BMI Calc" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/BMICalcProject$BMICalculator.ic" NAME="BMICalculator Coverage Results" MODIFIED="1668454164694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/BMICalcProject$BMICalculator.ic" NAME="BMICalculator Coverage Results" MODIFIED="1668454832715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
